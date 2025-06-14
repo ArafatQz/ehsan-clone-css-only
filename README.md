@@ -6,7 +6,7 @@ A modern charity platform built with **HTML** and **CSS** only, showcasing the p
 
 ## 🚀 Live Demo
 
-- [View the live site »](https://spiffy-rolypoly-3f2f88.netlify.app/)
+- [View site »](https://spiffy-rolypoly-3f2f88.netlify.app/)
 
 ---
 
